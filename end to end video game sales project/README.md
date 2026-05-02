@@ -114,5 +114,5 @@ Global_Sales: Total worldwide sales (in millions)
 - Add time series analysis for trend forecasting
 - Expand the UI with more visualization options
 
-👥 Author- [Pruthvish Vyas](https://github.com/Pruthvish-Vyas)
+👥 Author- [Pruthvish Vyas](https://github.com/pruthvishvyas)
 
