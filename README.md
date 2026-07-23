@@ -6,6 +6,11 @@ Repository containing portfolio of data science projects completed by me for  se
 - Install dependencies using requirements.txt.
 - Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
+## Table of Contents
+- [Business Analytics](#business-analytics--end-to-end-mlops--analytics-projects)
+- [MLOps](#mlops-end-to-end-ml-lifecycle-projects)
+- [Micro Projects](#micro-projects)
+
 # Content
 
 - ## Business Analytics : End to End MLOps & Analytics Projects
