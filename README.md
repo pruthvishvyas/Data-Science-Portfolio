@@ -8,7 +8,7 @@ Repository containing portfolio of data science projects completed by me for  se
 
 # Content
 
-## Business Analytics : End to End MLOps & Analytics Projects
+- ## Business Analytics : End to End MLOps & Analytics Projects
   - [Retail Sales Efficiency Analytics](https://github.com/pruthvishvyas/retailanalytics): Every retail manager schedules staff by footfall instinct. This project proves or disproves that instinct with numbers from 421,570 weekly sales records across 45 stores and 99 departments spanning 3 years of real transaction data.
 
 
