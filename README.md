@@ -15,7 +15,7 @@ Repository containing portfolio of data science projects completed by me for  se
 
 - ## Business Analytics : End to End MLOps & Analytics Projects
   - [Retail Sales Efficiency Analytics](https://github.com/pruthvishvyas/retailanalytics): Every retail manager schedules staff by footfall instinct. This project proves or disproves that instinct with numbers from 421,570 weekly sales records across 45 stores and 99 departments spanning 3 years of real transaction data.
-
+  - [Bank Marketing — Revenue Intelligence Pipeline](https://github.com/pruthvishvyas/bank_marketing): Small business owners make pricing and staffing decisions based on gut feel about their "busy seasons" — but rarely quantify how much revenue they leave on the table by under-resourcing during peak demand cycles.
 
 - ## MLops: End to End ML Lifecycle Projects
   - [Facebook Ad Analytics & AI Assistant](https://github.com/Pruthvish-Vyas/Facebook-Ad-Analytics-AI-Assistant): Facebook Ad Analytics AI Assistant is a Python-based tool designed to enhance and automate the analysis of Facebook advertising campaign data. Leveraging AI-driven insights, this assistant streamlines data processing, uncovers actionable trends, and supports marketing teams in optimizing their ad strategies for better ROI. 
