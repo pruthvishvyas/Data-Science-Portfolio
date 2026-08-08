@@ -7,11 +7,17 @@ Repository containing portfolio of data science projects completed by me for  se
 - Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 ## Table of Contents
+- [Featured Projects](#featured-projects)
 - [Business Analytics](#business-analytics--end-to-end-mlops--analytics-projects)
 - [MLOps](#mlops-end-to-end-ml-lifecycle-projects)
 - [Micro Projects](#micro-projects)
 
 # Content
+
+- ## Featured Projects
+  - [Retail Sales Efficiency Analytics](https://github.com/pruthvishvyas/retailanalytics) | [Demo](https://www.linkedin.com/posts/pruthvishvyas_retailanalytics-dataanalysis-python-activity-7485580753980858368-eGUT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrdkAMBmvL1SiRceKhPWyl1DC8VrEJquH8): Every retail manager schedules staff by footfall instinct. This project proves or disproves that instinct with numbers from 421,570 weekly sales records across 45 stores and 99 departments spanning 3 years of real transaction data.
+ 
+---
 
 - ## Business Analytics : End to End MLOps & Analytics Projects
   - [Retail Sales Efficiency Analytics](https://github.com/pruthvishvyas/retailanalytics) | [Demo](https://www.linkedin.com/posts/pruthvishvyas_retailanalytics-dataanalysis-python-activity-7485580753980858368-eGUT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrdkAMBmvL1SiRceKhPWyl1DC8VrEJquH8): Every retail manager schedules staff by footfall instinct. This project proves or disproves that instinct with numbers from 421,570 weekly sales records across 45 stores and 99 departments spanning 3 years of real transaction data.
