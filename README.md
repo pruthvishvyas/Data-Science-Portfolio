@@ -29,6 +29,9 @@ Repository containing portfolio of data science projects completed by me for  se
   - [Heart Disease Analytics](https://github.com/pruthvishvyas/s1p5) | [Demo](https://www.linkedin.com/posts/pruthvishvyas_healthcareanalytics-dataanalysis-python-ugcPost-7492533676983984128-GuNZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrdkAMBmvL1SiRceKhPWyl1DC8VrEJquH8) : Disease prevalence in this cohort is 44.4%. Asymptomatic chest pain (CP=0) carries the highest subgroup disease rate. ML model enables automated triage with strong AUC performance.
   - [Screen Time & Mental Health Analytics](https://github.com/pruthvishvyas/s1p6) | [Demo](https://www.linkedin.com/posts/pruthvishvyas_dataanalysis-python-machinelearning-ugcPost-7493355506229493760-Mrv4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrdkAMBmvL1SiRceKhPWyl1DC8VrEJquH8) : In a cohort of 999 subjects, 16.2% meet BDI depression criteria. Average leisure screen time is 3.96 hours/day; high-screen users show markedly higher risk.
   - [EEG Eye State Analysis](https://github.com/pruthvishvyas/s1p7) | [Demo](https://www.linkedin.com/posts/pruthvishvyas_dataanalysis-python-machinelearning-ugcPost-7493355946715504640-nCyu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrdkAMBmvL1SiRceKhPWyl1DC8VrEJquH8) : Eyes-closed state accounts for 31.7% of 1000 EEG readings. Occipital and frontal channels are the strongest discriminators. Gradient Boosting achieves best AUC.
+  - [Cruise Reservation Analytics](https://github.com/pruthvishvyas/s1p8) | [demo](https://lnkd.in/p/gbuB-RWj): 77,040 reservations. 2018–01-05 to 2022–02–06. 20 features. The analysis identifies Transatlántico as the highest-value route at $7,922 per reservation.
+  - [Airline Passenger No-Show Prediction](https://github.com/pruthvishvyas/s1p9) : 10,000 passenger records. 24 raw features. 11 engineered features.
+The analysis quantifies a 4.7% no‑show rate and $16,321.43 revenue at risk.
 
 ---
 
