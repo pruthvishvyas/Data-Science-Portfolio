@@ -16,6 +16,7 @@ Repository containing portfolio of data science projects completed by me for  se
 
 - ## Featured Projects
   - [Retail Sales Efficiency Analytics](https://github.com/pruthvishvyas/retailanalytics) | [Demo](https://www.linkedin.com/posts/pruthvishvyas_retailanalytics-dataanalysis-python-activity-7485580753980858368-eGUT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrdkAMBmvL1SiRceKhPWyl1DC8VrEJquH8): Every retail manager schedules staff by footfall instinct. This project proves or disproves that instinct with numbers from 421,570 weekly sales records across 45 stores and 99 departments spanning 3 years of real transaction data.
+  - [Influencer Marketing ROI Intelligence Platform](https://github.com/pruthvishvyas/s1p10) | [Demo](https://lnkd.in/p/dM-GfMrp): Marketing teams allocate significant budgets to influencer campaigns without a systematic framework for predicting ROI before spend is committed. This platform provides data-driven influencer selection, automated tier scoring, and pre-campaign revenue forecasting — replacing guesswork with an evidence-based campaign intelligence engine.
  
 ---
 
@@ -32,6 +33,7 @@ Repository containing portfolio of data science projects completed by me for  se
   - [Cruise Reservation Analytics](https://github.com/pruthvishvyas/s1p8) | [demo](https://lnkd.in/p/gbuB-RWj): 77,040 reservations. 2018–01-05 to 2022–02–06. 20 features. The analysis identifies Transatlántico as the highest-value route at $7,922 per reservation.
   - [Airline Passenger No-Show Prediction](https://github.com/pruthvishvyas/s1p9) : 10,000 passenger records. 24 raw features. 11 engineered features.
 The analysis quantifies a 4.7% no‑show rate and $16,321.43 revenue at risk.
+  - [Influencer Marketing ROI Intelligence Platform](https://github.com/pruthvishvyas/s1p10) | [Demo](https://lnkd.in/p/dM-GfMrp): Marketing teams allocate significant budgets to influencer campaigns without a systematic framework for predicting ROI before spend is committed. This platform provides data-driven influencer selection, automated tier scoring, and pre-campaign revenue forecasting — replacing guesswork with an evidence-based campaign intelligence engine.
 
 ---
 
